@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": " nodemon server.js",
+    "dev": "watch nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+tr{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    gap: 10px;
+
+
+   
+}
+thead{
+    /* padding: 30px; */
+    font-weight: bold;
+    width: 250px;
+    justify-content: space-around;
+    gap: 10px;
+}
+td{
+    width: 250px;
+    /* padding: 30px;  */
+    justify-content: flex-start;
+}
